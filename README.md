@@ -21,6 +21,3 @@ python -m stickertoimgrobot
 # Get Some Help (Btw Its Easy To Deploy)
 * [CyberBoyAyush](https://telegram.me/CyberBoyAyush)
 * [Contact Us Bot](https://telegram.me/cyberboyayushbot)
-
-# Credits:
-* [@StarkGang](https://GitHub.com/StarkGang)
