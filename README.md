@@ -23,4 +23,4 @@ python -m stickertoimgrobot
 * [Contact Us Bot](https://telegram.me/cyberboyayushbot)
 
 # Credits:
-* @StarkGang
+* [@StarkGang](https://GitHub.com/StarkGang)
